@@ -7,6 +7,7 @@ This project is a simple chat application built using Python's socket programmin
 - [Running the Application](#running-the-application)
 - [Usage](#usage)
 - [Handling Edge Cases](#handling-edge-cases)
+- [Running Scenarios] (#running-scenarios)
 
 ## Project Overview
 
@@ -49,3 +50,10 @@ The chat application consists of two main components:
 
 - **Empty Messages:** The client will ignore messages that are empty or consist only of whitespace.
 - **Connection Errors:** The client will handle connection errors and disconnections gracefully, printing a message if the connection is closed.
+
+## Running Scenarios
+- Server Side
+![Image Alt Text](./server.png)
+
+- Client Side
+![Image Alt Text](./client.png)
