@@ -7,7 +7,7 @@ This project is a simple chat application built using Python's socket programmin
 - [Running the Application](#running-the-application)
 - [Usage](#usage)
 - [Handling Edge Cases](#handling-edge-cases)
-- [Running Scenarios] (#running-scenarios)
+- [Running Scenarios](#running-scenarios)
 
 ## Project Overview
 
