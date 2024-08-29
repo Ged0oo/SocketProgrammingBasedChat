@@ -53,7 +53,7 @@ The chat application consists of two main components:
 
 ## Running Scenarios
 - Server Side
-![Image Alt Text](./server.png)
+![Image Alt Text](./server.jpg)
 
 - Client Side
-![Image Alt Text](./client.png)
+![Image Alt Text](./client.jpg)
